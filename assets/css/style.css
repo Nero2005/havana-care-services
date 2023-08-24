@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Open+Sans:wght@300;400;500;600;700&display=swap");
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Project: YaniCare
+Project: Havana
 -------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
@@ -3666,31 +3666,31 @@ dialog {
   border: none;
 }
 
-.yani-modal-text {
+.havana-modal-text {
   padding: 20px;
 }
 
-.yani-modal-text-i {
+.havana-modal-text-i {
   background-color: green;
 }
 
-.yani-modal-text p {
+.havana-modal-text p {
   font-size: medium;
 }
 
-.yani-modal-text h3 {
+.havana-modal-text h3 {
   font-size: 30px;
   margin-bottom: 20px;
   font-weight: 400;
 }
 
-.yani-modal-text i {
+.havana-modal-text i {
   font-size: 60px;
 }
 
 /* The Modal (background) */
 
-.yani-modal {
+.havana-modal {
   display: none;
   /* Hidden by default */
   position: fixed;
@@ -3715,7 +3715,7 @@ dialog {
 
 /* Modal Content */
 
-.yani-modal-content {
+.havana-modal-content {
   background-color: #fefefe;
   border-radius: 15px !important;
   margin: auto;
@@ -3723,7 +3723,7 @@ dialog {
   width: 50%;
 }
 
-.yani-modal-content button {
+.havana-modal-content button {
   color: var(--e-global-color-white);
   font-weight: bold;
   background: #f8c30b;
@@ -3738,8 +3738,8 @@ dialog {
   border: 1px solid #f8c30b;
 }
 
-.yani-modal-content button:hover,
-.yani-modal-content button:focus {
+.havana-modal-content button:hover,
+.havana-modal-content button:focus {
   background: #fff;
   color: #f8c30b;
   border: 1px solid #f8c30b;
@@ -3747,15 +3747,15 @@ dialog {
 
 /* The Close Button */
 
-.yani-modal-close {
+.havana-modal-close {
   color: #aaaaaa;
   float: right;
   font-size: 28px;
   font-weight: bold;
 }
 
-.yani-modal-close:hover,
-.yani-modal-close:focus {
+.havana-modal-close:hover,
+.havana-modal-close:focus {
   color: #000;
   text-decoration: none;
   cursor: pointer;
