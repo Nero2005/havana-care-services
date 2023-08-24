@@ -1,7 +1,4 @@
 */images/*
 !*/images/favicon
-# !*/assets/images/favicon/android-icon-192x192.png
-# !assets/images/favicon/favicon-32x32.png
-# !assets/images/favicon/manifest.json
 .DS_Store
 */.DS_Store
